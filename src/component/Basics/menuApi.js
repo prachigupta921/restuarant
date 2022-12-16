@@ -8,7 +8,7 @@ const Menu = [{
 },
 {
     id:2,
-    image: "images/maggi.jpg",
+    image: "images/aloo-paratha.jpg",
     name: "Aalu Paratha",
     category: "breakfast",
     price: "12$",
@@ -17,7 +17,7 @@ const Menu = [{
 
 {
     id:3,
-    image: "images/maggi.jpg",
+    image: "images/samosa.webp",
     name: "samosa",
     category: "lunch",
     price: "12$",
@@ -25,7 +25,7 @@ const Menu = [{
 },
 {
     id:4,
-    image: "images/maggi.jpg",
+    image: "images/momos.jpg",
     name: "momos",
     category: "lunch",
     price: "12$",
@@ -34,7 +34,7 @@ const Menu = [{
 
 {
     id:5,
-    image: "images/maggi.jpg",
+    image: "images/chilli.jpg",
     name: "chilli patato",
     category: "Evening",
     price: "12$",
@@ -43,7 +43,7 @@ const Menu = [{
 
 {
     id:6,
-    image: "images/maggi.jpg",
+    image: "images/burger.jpg",
     name: "burger",
     category: "Dinner",
     price: "12$",
@@ -52,7 +52,7 @@ const Menu = [{
 
 {
     id:7,
-    image: "images/maggi.jpg",
+    image: "images/dosha.jpg",
     name: "dosha",
     category: "Dinner",
     price: "12$",
